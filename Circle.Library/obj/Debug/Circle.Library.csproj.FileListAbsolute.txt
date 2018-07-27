@@ -1,0 +1,6 @@
+C:\Users\GC Student\Source\Repos\Lab_10_CIrcle\Circle.Library\obj\Debug\Circle.Library.csprojResolveAssemblyReference.cache
+C:\Users\GC Student\Source\Repos\Lab_10_CIrcle\Circle.Library\obj\Debug\Circle.Library.csproj.CoreCompileInputs.cache
+C:\Users\GC Student\Source\Repos\Lab_10_CIrcle\Circle.Library\bin\Debug\Circle.Library.dll
+C:\Users\GC Student\Source\Repos\Lab_10_CIrcle\Circle.Library\bin\Debug\Circle.Library.pdb
+C:\Users\GC Student\Source\Repos\Lab_10_CIrcle\Circle.Library\obj\Debug\Circle.Library.dll
+C:\Users\GC Student\Source\Repos\Lab_10_CIrcle\Circle.Library\obj\Debug\Circle.Library.pdb
